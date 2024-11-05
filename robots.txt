@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ilehuuka.github.io/Nrg/sitemap_index.txt
+Sitemap: https://ilehuuka.github.io/QkM/sitemap_index.txt
+Sitemap: https://ilehuuka.github.io/YNd/sitemap_index.txt
+Sitemap: https://ilehuuka.github.io/hOT/sitemap_index.txt
